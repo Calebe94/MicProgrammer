@@ -7,3 +7,5 @@ links de alguns artigos interessantes:
 *https://sites.google.com/site/thehighspark/arduino-pic18f?fb_comment_id=10150806860370139_23237271
 *http://pleasantlyclueless.blogspot.com.br/2013/11/using-arduino-as-pic-programmer.html
 *http://forum.arduino.cc/index.php/topic,92929.0.html
+*PIC Mais Utilizado: PIC18f4550 -> http://forum.pinguino.cc/showthread.php?tid=3123
+Using an Arduino as a PIC programmer:http://pleasantlyclueless.blogspot.com.br/2013/11/using-arduino-as-pic-programmer.html
