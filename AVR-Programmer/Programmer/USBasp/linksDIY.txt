@@ -1,0 +1,5 @@
+*USBasp - USB programmer for Atmel AVR controllers
+http://www.circuitvalley.com/2011/04/usbasp-usb-programmer-for-atmel-avr.html
+
+*USBasp - USB programmer for Atmel AVR controllers
+http://www.fischl.de/usbasp/

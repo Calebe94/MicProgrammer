@@ -1,0 +1,8 @@
+*ATTINY45 BASED USBTINYISP PROGRAMMER:
+https://aylo6061.com/2011/09/26/attiny45-based-usbtinyisp-programmer/
+
+*ATtiny ISP Shield makes programing bare AVR ICs easy and also helps shrinkfy your arduino projects.
+http://www.htlinux.com/attiny-isp-shield-makes-programing-bare-avr-ics-easy-and-also-helps-shrinkfy-your-arduino-projects/
+
+*DIY $5 USBTinyISP
+http://www.instructables.com/id/DIY-5-USBTinyISP/?ALLSTEPS
