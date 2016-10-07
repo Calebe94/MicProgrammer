@@ -1,0 +1,21 @@
+
+
+
+			   		PIC-16f873									PIC-16f628
+		
+				   +------------+		   						+------------+
+	MCLR/Vpp/THV  _|     \/     |_  RB7/PGD		 RA2/AN2/VREF  _|     \/     |_  RA1/AN1
+	     RA0/AN0  _|            |_  RB6/PGC		 RA3/AN3/CMP1  _|            |_  RA0/AN0
+		 RA1/AN1  _|            |_  RB5		   RA4/TOCKI/CMP2  _|            |_  RA7/OSC1/CLKIN
+   RA2/AN2/VREF-  _|            |_  RB4		     RA5/MCLR/VPP  _|            |_  RA6/OSC2/CLKOUT
+   RA3/AN3/VREF+  _|            |_  RB3/PGM				  VSS  _|            |_  VDD
+	  RA4/TOCK I  _|            |_  RB2				  RB0/INT  _|            |_  RB7/T1OSI/PGD
+	  RA5/AN4/SS  _|            |_  RB1				RB1/RX/DT  _|            |_  RB6/T1OSI/T1CK1/PGC
+			 VSS  _|            |_  RB0/INT			RB2/TX/CK  _|            |_  RB5
+	  OSC1/CLKIN  _|            |_  VDD				 RB3/CCP1  _|            |_  RB4/PGM
+     OSC2/CLKOUT  _|            |_  VSS		   					+------------+
+ RC0/T1OSO/T1CKI  _|            |_  RC7/RX/DT
+  RC1/T1OSI/CCP2  _|            |_  RC6/TX/CK
+    	RC2/CCP1  _|            |_  RC5/SDO
+     RC3/SCK/SCL  _|            |_  RC4/SDI/SDA
+	 			   +------------+
